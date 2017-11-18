@@ -11,9 +11,9 @@
 function whileLoop (n) {
   while (n > 0) {
     if (n===0) {
-      return "done"}
+      console.log("done")}
     else {
-    return --n }
+    console.log(--n )}
   }
 }
 
