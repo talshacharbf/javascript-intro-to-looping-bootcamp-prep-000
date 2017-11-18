@@ -1,7 +1,9 @@
-function for (let i = 0; i < 25; i++) {
-  if (i = 1) {
-     console.log( "I am 1 strange loop.")}
-      else {
-        console.log( `I am `${i}` stange Loops.`)
-      }
-    }
+function forloop (array) {
+  var array = {};
+    let i = 0; i < 25; i++) {
+      if (i = 1) {
+        array.push( "I am 1 strange loop.")}
+          else {
+            array = [( `I am `${i}` stange Loops.`)]
+              }
+                }
