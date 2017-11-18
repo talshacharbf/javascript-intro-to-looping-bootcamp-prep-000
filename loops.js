@@ -7,3 +7,4 @@ function forloop (array) {
             array.push( `I am `${i}` stange Loops.`)
               }
                 }
+                  }
