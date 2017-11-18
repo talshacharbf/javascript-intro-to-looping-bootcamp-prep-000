@@ -18,8 +18,7 @@ function doWhileLoop (array) {
   function maybeTrue() {
     return Math.random() >= 0.5
 }
- 
 do {
-  pop.array()
+  array.pop()
 } while (maybeTrue());
 }
